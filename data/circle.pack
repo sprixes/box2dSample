@@ -1,0 +1,47 @@
+
+circle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greenmonster
+  rotate: false
+  xy: 1, 96
+  size: 143, 155
+  orig: 143, 155
+  offset: 0, 0
+  index: -1
+bluemonster
+  rotate: false
+  xy: 146, 124
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 264, 130
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 387, 130
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 146, 1
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 269, 7
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1

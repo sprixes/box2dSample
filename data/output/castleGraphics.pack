@@ -1,0 +1,2887 @@
+
+castleGraphics.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow/image
+  rotate: false
+  xy: 1, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 865
+arrow/image
+  rotate: false
+  xy: 42, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 867
+arrow/image
+  rotate: false
+  xy: 83, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 869
+arrow/image
+  rotate: false
+  xy: 124, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 871
+arrow/image
+  rotate: false
+  xy: 165, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 873
+arrow/image
+  rotate: false
+  xy: 206, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 875
+arrow/image
+  rotate: false
+  xy: 247, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 877
+arrow/image
+  rotate: false
+  xy: 288, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 879
+arrow/image
+  rotate: false
+  xy: 329, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 881
+arrow/image
+  rotate: false
+  xy: 370, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 883
+arrow/image
+  rotate: false
+  xy: 411, 1
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: 885
+
+castleGraphics2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Background/image
+  rotate: false
+  xy: 1, 1
+  size: 384, 235
+  orig: 384, 235
+  offset: 0, 0
+  index: 1
+Background/image
+  rotate: false
+  xy: 387, 158
+  size: 135, 78
+  orig: 135, 78
+  offset: 0, 0
+  index: 40
+Background/image
+  rotate: false
+  xy: 387, 81
+  size: 135, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: 37
+Background/image
+  rotate: false
+  xy: 524, 170
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: 34
+
+castleGraphics3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Box/image
+  rotate: false
+  xy: 1, 1
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: 1164
+Box/image
+  rotate: false
+  xy: 93, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 892
+Box/image
+  rotate: false
+  xy: 155, 21
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 919
+Box/image
+  rotate: false
+  xy: 217, 21
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 719
+
+castleGraphics4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxGreen/box1/image
+  rotate: false
+  xy: 1, 43
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: 427
+BoxGreen/box1/image
+  rotate: false
+  xy: 121, 43
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: 429
+BoxGreen/box1/image
+  rotate: false
+  xy: 241, 43
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: 431
+BoxGreen/box1/image
+  rotate: false
+  xy: 361, 43
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: 433
+BoxGreen/box1/image
+  rotate: false
+  xy: 481, 43
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: 435
+BoxGreen/box1/image
+  rotate: false
+  xy: 601, 43
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: 437
+BoxGreen/box1/image
+  rotate: false
+  xy: 1, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 426
+
+castleGraphics5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxGreen/box2/image
+  rotate: false
+  xy: 1, 145
+  size: 180, 70
+  orig: 180, 70
+  offset: 0, 0
+  index: 460
+BoxGreen/box2/image
+  rotate: false
+  xy: 1, 73
+  size: 180, 70
+  orig: 180, 70
+  offset: 0, 0
+  index: 462
+BoxGreen/box2/image
+  rotate: false
+  xy: 183, 145
+  size: 180, 70
+  orig: 180, 70
+  offset: 0, 0
+  index: 464
+BoxGreen/box2/image
+  rotate: false
+  xy: 1, 1
+  size: 180, 70
+  orig: 180, 70
+  offset: 0, 0
+  index: 466
+BoxGreen/box2/image
+  rotate: false
+  xy: 183, 73
+  size: 180, 70
+  orig: 180, 70
+  offset: 0, 0
+  index: 468
+BoxGreen/box2/image
+  rotate: false
+  xy: 183, 1
+  size: 180, 70
+  orig: 180, 70
+  offset: 0, 0
+  index: 470
+BoxGreen/box2/image
+  rotate: false
+  xy: 365, 185
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 346
+
+castleGraphics6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxWhite/Box1/image
+  rotate: false
+  xy: 1, 181
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 332
+BoxWhite/Box1/image
+  rotate: false
+  xy: 1, 136
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 334
+BoxWhite/Box1/image
+  rotate: false
+  xy: 1, 91
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 336
+BoxWhite/Box1/image
+  rotate: false
+  xy: 1, 46
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 338
+BoxWhite/Box1/image
+  rotate: false
+  xy: 1, 1
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 340
+
+castleGraphics7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxWhite/Box2/image
+  rotate: false
+  xy: 1, 1
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 352
+BoxWhite/Box2/image
+  rotate: false
+  xy: 86, 1
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 354
+BoxWhite/Box2/image
+  rotate: false
+  xy: 171, 1
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 356
+BoxWhite/Box2/image
+  rotate: false
+  xy: 256, 1
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 358
+BoxWhite/Box2/image
+  rotate: false
+  xy: 341, 1
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 360
+
+castleGraphics8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxWhite/Box3/image
+  rotate: false
+  xy: 1, 85
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: 363
+BoxWhite/Box3/image
+  rotate: false
+  xy: 1, 43
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: 365
+BoxWhite/Box3/image
+  rotate: false
+  xy: 266, 85
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: 367
+BoxWhite/Box3/image
+  rotate: false
+  xy: 1, 1
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: 369
+BoxWhite/Box3/image
+  rotate: false
+  xy: 266, 43
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: 371
+
+castleGraphics9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxWhite/Box4/image
+  rotate: false
+  xy: 1, 165
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: 380
+BoxWhite/Box4/image
+  rotate: false
+  xy: 1, 87
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 383
+BoxWhite/Box4/image
+  rotate: false
+  xy: 1, 9
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 385
+BoxWhite/Box4/image
+  rotate: false
+  xy: 120, 157
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 387
+BoxWhite/Box4/image
+  rotate: false
+  xy: 88, 79
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 389
+BoxWhite/Box4/image
+  rotate: false
+  xy: 88, 1
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 391
+
+castleGraphics10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxWhite/Box5/image
+  rotate: false
+  xy: 1, 1
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 416
+BoxWhite/Box5/image
+  rotate: false
+  xy: 143, 1
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 418
+BoxWhite/Box5/image
+  rotate: false
+  xy: 285, 1
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 420
+BoxWhite/Box5/image
+  rotate: false
+  xy: 427, 1
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 422
+BoxWhite/Box5/image
+  rotate: false
+  xy: 569, 1
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 424
+
+castleGraphics11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoxWhite/Box6/image
+  rotate: false
+  xy: 1, 141
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: 443
+BoxWhite/Box6/image
+  rotate: false
+  xy: 1, 71
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: 445
+BoxWhite/Box6/image
+  rotate: false
+  xy: 120, 141
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: 447
+BoxWhite/Box6/image
+  rotate: false
+  xy: 1, 1
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: 449
+BoxWhite/Box6/image
+  rotate: false
+  xy: 120, 71
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: 451
+
+castleGraphics12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Buttons/image
+  rotate: false
+  xy: 1, 154
+  size: 224, 347
+  orig: 224, 347
+  offset: 0, 0
+  index: 142
+Buttons/image
+  rotate: false
+  xy: 227, 204
+  size: 224, 297
+  orig: 224, 297
+  offset: 0, 0
+  index: 170
+Buttons/image
+  rotate: false
+  xy: 453, 336
+  size: 327, 165
+  orig: 327, 165
+  offset: 0, 0
+  index: 174
+Buttons/image
+  rotate: false
+  xy: 453, 228
+  size: 225, 106
+  orig: 225, 106
+  offset: 0, 0
+  index: 171
+Buttons/image
+  rotate: false
+  xy: 782, 395
+  size: 225, 106
+  orig: 225, 106
+  offset: 0, 0
+  index: 185
+Buttons/image
+  rotate: false
+  xy: 1, 112
+  size: 176, 40
+  orig: 176, 40
+  offset: 0, 0
+  index: 101
+Buttons/image
+  rotate: false
+  xy: 227, 162
+  size: 176, 40
+  orig: 176, 40
+  offset: 0, 0
+  index: 187
+Buttons/image
+  rotate: false
+  xy: 782, 360
+  size: 169, 33
+  orig: 169, 33
+  offset: 0, 0
+  index: 19
+Buttons/image
+  rotate: false
+  xy: 453, 207
+  size: 147, 19
+  orig: 147, 19
+  offset: 0, 0
+  index: 139
+Buttons/image
+  rotate: false
+  xy: 1, 70
+  size: 124, 40
+  orig: 124, 40
+  offset: 0, 0
+  index: 93
+Buttons/image
+  rotate: false
+  xy: 1, 28
+  size: 122, 40
+  orig: 122, 40
+  offset: 0, 0
+  index: 89
+Buttons/image
+  rotate: false
+  xy: 680, 294
+  size: 116, 40
+  orig: 116, 40
+  offset: 0, 0
+  index: 145
+Buttons/image
+  rotate: false
+  xy: 680, 252
+  size: 116, 40
+  orig: 116, 40
+  offset: 0, 0
+  index: 97
+Buttons/image
+  rotate: false
+  xy: 680, 210
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: 127
+Buttons/image
+  rotate: false
+  xy: 798, 318
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: 27
+Buttons/image
+  rotate: false
+  xy: 798, 274
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: 162
+Buttons/image
+  rotate: false
+  xy: 127, 68
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: 164
+Buttons/image
+  rotate: false
+  xy: 879, 316
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: 166
+Buttons/image
+  rotate: false
+  xy: 849, 267
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 131
+Buttons/image
+  rotate: false
+  xy: 878, 265
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 135
+Buttons/image
+  rotate: false
+  xy: 179, 127
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: 229
+Buttons/image
+  rotate: false
+  xy: 405, 177
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: 232
+Buttons/image
+  rotate: false
+  xy: 953, 368
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: 236
+Buttons/image
+  rotate: false
+  xy: 1, 1
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: 239
+
+castleGraphics13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+characters/image1
+  rotate: false
+  xy: 1, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+characters/image2
+  rotate: false
+  xy: 65, 23
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+characters/image4
+  rotate: false
+  xy: 65, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+characters/image3
+  rotate: false
+  xy: 112, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+
+castleGraphics14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+circle/image4
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+circle/image
+  rotate: false
+  xy: 123, 43
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: 454
+circle/image3
+  rotate: false
+  xy: 195, 61
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+circle/image2
+  rotate: false
+  xy: 123, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+circle/image
+  rotate: false
+  xy: 165, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 315
+circle/image1
+  rotate: false
+  xy: 206, 39
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+
+castleGraphics15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CircleWhite/Circle1/image
+  rotate: false
+  xy: 1, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 318
+CircleWhite/Circle1/image
+  rotate: false
+  xy: 23, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 321
+CircleWhite/Circle1/image
+  rotate: false
+  xy: 45, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 323
+CircleWhite/Circle1/image
+  rotate: false
+  xy: 67, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 325
+CircleWhite/Circle1/image
+  rotate: false
+  xy: 89, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 327
+CircleWhite/Circle1/image
+  rotate: false
+  xy: 111, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 329
+
+castleGraphics16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CircleWhite/Circle2/image
+  rotate: false
+  xy: 1, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 394
+CircleWhite/Circle2/image
+  rotate: false
+  xy: 42, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 396
+CircleWhite/Circle2/image
+  rotate: false
+  xy: 83, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 398
+CircleWhite/Circle2/image
+  rotate: false
+  xy: 124, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 400
+CircleWhite/Circle2/image
+  rotate: false
+  xy: 165, 1
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 402
+
+castleGraphics17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CircleWhite/Circle3/image
+  rotate: false
+  xy: 1, 1
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: 405
+CircleWhite/Circle3/image
+  rotate: false
+  xy: 73, 1
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: 407
+CircleWhite/Circle3/image
+  rotate: false
+  xy: 145, 1
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: 409
+CircleWhite/Circle3/image
+  rotate: false
+  xy: 217, 1
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: 411
+CircleWhite/Circle3/image
+  rotate: false
+  xy: 289, 1
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: 413
+
+castleGraphics18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 1, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 522
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 58, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 524
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 115, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 526
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 172, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 528
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 229, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 530
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 286, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 532
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 343, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 534
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 400, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 536
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 457, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 538
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 514, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 540
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 571, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 542
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 628, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 544
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 685, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 546
+dragon/dragonPinkDead/image
+  rotate: false
+  xy: 742, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 548
+
+castleGraphics19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 1, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1016
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 1, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1018
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 60, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1020
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 60, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1022
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 119, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1024
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 119, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1026
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 178, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1028
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 178, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1030
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 237, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1032
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 237, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1034
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 296, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: 1036
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 296, 3
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1000
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 355, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1002
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 412, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1004
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 469, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1006
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 526, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1008
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 583, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1010
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 640, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1012
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 697, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 1014
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 754, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 988
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 811, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 990
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 868, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 992
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 925, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 994
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 353, 3
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 996
+dragon/dragonPinkWalk/image
+  rotate: false
+  xy: 410, 5
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: 998
+
+castleGraphics20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 1, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 243
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 1, 225
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 245
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 123, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 247
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 1, 113
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 249
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 123, 225
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 251
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 245, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 253
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 1, 1
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 255
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 123, 113
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 257
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 245, 225
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 259
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 367, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 261
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 123, 1
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 263
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 245, 113
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 265
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 367, 225
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 267
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 489, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 269
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 245, 1
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 271
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 367, 113
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 273
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 489, 225
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 275
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 611, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 277
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 367, 1
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 279
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 489, 113
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 281
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 611, 225
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 283
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 733, 337
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 285
+dragon/dragonRedDead/image
+  rotate: false
+  xy: 489, 1
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: 287
+
+castleGraphics21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 1, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 791
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 1, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 793
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 90, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 795
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 1, 197
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 797
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 90, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 799
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 179, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 801
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 1, 99
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 803
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 90, 197
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 805
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 179, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 807
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 268, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 809
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 1, 1
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 811
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 90, 99
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 813
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 179, 197
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 815
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 268, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 817
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 357, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 819
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 90, 1
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 821
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 179, 99
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 823
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 268, 197
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 825
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 357, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 827
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 446, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 829
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 179, 1
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 831
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 268, 99
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 833
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 357, 197
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 835
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 446, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 837
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 535, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 839
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 268, 1
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 841
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 357, 99
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 843
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 446, 197
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 845
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 535, 295
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 847
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 624, 393
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 849
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 357, 1
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 851
+dragon/dragonRedWalk/image
+  rotate: false
+  xy: 446, 99
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: 853
+
+castleGraphics22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 1, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 740
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 34, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 742
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 67, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 744
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 100, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 746
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 133, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 748
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 166, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 750
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 199, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 752
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 232, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 754
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 265, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 756
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 298, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 758
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 331, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 760
+explosion/eplosionIdle/image
+  rotate: false
+  xy: 364, 1
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: 762
+
+castleGraphics23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion/explosion1/image
+  rotate: false
+  xy: 1, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 492
+explosion/explosion1/image
+  rotate: false
+  xy: 65, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 494
+explosion/explosion1/image
+  rotate: false
+  xy: 129, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 496
+explosion/explosion1/image
+  rotate: false
+  xy: 193, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 498
+explosion/explosion1/image
+  rotate: false
+  xy: 257, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 500
+explosion/explosion1/image
+  rotate: false
+  xy: 321, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 502
+explosion/explosion1/image
+  rotate: false
+  xy: 385, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 504
+explosion/explosion1/image
+  rotate: false
+  xy: 449, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 506
+explosion/explosion1/image
+  rotate: false
+  xy: 513, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 508
+explosion/explosion1/image
+  rotate: false
+  xy: 577, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 510
+explosion/explosion1/image
+  rotate: false
+  xy: 641, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 512
+explosion/explosion1/image
+  rotate: false
+  xy: 705, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 514
+explosion/explosion1/image
+  rotate: false
+  xy: 769, 1
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: 516
+
+castleGraphics24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion/explosion2/image
+  rotate: false
+  xy: 1, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 551
+explosion/explosion2/image
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 553
+explosion/explosion2/image
+  rotate: false
+  xy: 103, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 555
+explosion/explosion2/image
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 557
+explosion/explosion2/image
+  rotate: false
+  xy: 205, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 559
+explosion/explosion2/image
+  rotate: false
+  xy: 205, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 561
+explosion/explosion2/image
+  rotate: false
+  xy: 307, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 563
+explosion/explosion2/image
+  rotate: false
+  xy: 307, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 565
+explosion/explosion2/image
+  rotate: false
+  xy: 409, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 567
+explosion/explosion2/image
+  rotate: false
+  xy: 409, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 569
+explosion/explosion2/image
+  rotate: false
+  xy: 511, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 571
+explosion/explosion2/image
+  rotate: false
+  xy: 511, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 573
+explosion/explosion2/image
+  rotate: false
+  xy: 613, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 575
+explosion/explosion2/image
+  rotate: false
+  xy: 613, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 577
+explosion/explosion2/image
+  rotate: false
+  xy: 715, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 579
+explosion/explosion2/image
+  rotate: false
+  xy: 715, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 581
+explosion/explosion2/image
+  rotate: false
+  xy: 817, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 583
+explosion/explosion2/image
+  rotate: false
+  xy: 817, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 585
+explosion/explosion2/image
+  rotate: false
+  xy: 919, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 587
+explosion/explosion2/image
+  rotate: false
+  xy: 919, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 589
+
+castleGraphics25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+finishBox/image
+  rotate: false
+  xy: 1, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1102
+finishBox/image
+  rotate: false
+  xy: 1, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1104
+finishBox/image
+  rotate: false
+  xy: 63, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1106
+finishBox/image
+  rotate: false
+  xy: 1, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1108
+finishBox/image
+  rotate: false
+  xy: 63, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1110
+finishBox/image
+  rotate: false
+  xy: 125, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1112
+finishBox/image
+  rotate: false
+  xy: 63, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1114
+finishBox/image
+  rotate: false
+  xy: 125, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1116
+finishBox/image
+  rotate: false
+  xy: 187, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1118
+finishBox/image
+  rotate: false
+  xy: 125, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1120
+finishBox/image
+  rotate: false
+  xy: 187, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1122
+finishBox/image
+  rotate: false
+  xy: 249, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1124
+finishBox/image
+  rotate: false
+  xy: 187, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1126
+finishBox/image
+  rotate: false
+  xy: 249, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1128
+finishBox/image
+  rotate: false
+  xy: 311, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1130
+finishBox/image
+  rotate: false
+  xy: 249, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1132
+finishBox/image
+  rotate: false
+  xy: 311, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1134
+finishBox/image
+  rotate: false
+  xy: 373, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1136
+finishBox/image
+  rotate: false
+  xy: 311, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1138
+finishBox/image
+  rotate: false
+  xy: 373, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1140
+finishBox/image
+  rotate: false
+  xy: 435, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1142
+finishBox/image
+  rotate: false
+  xy: 373, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1144
+finishBox/image
+  rotate: false
+  xy: 435, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1146
+finishBox/image
+  rotate: false
+  xy: 497, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1148
+finishBox/image
+  rotate: false
+  xy: 435, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1150
+finishBox/image
+  rotate: false
+  xy: 497, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1152
+finishBox/image
+  rotate: false
+  xy: 559, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1154
+finishBox/image
+  rotate: false
+  xy: 497, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1156
+finishBox/image
+  rotate: false
+  xy: 559, 43
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1158
+finishBox/image
+  rotate: false
+  xy: 621, 85
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1160
+
+castleGraphics26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+groundBox/image
+  rotate: false
+  xy: 1, 33
+  size: 814, 198
+  orig: 814, 198
+  offset: 0, 0
+  index: 773
+groundBox/imageBrown2
+  rotate: false
+  xy: 1, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+groundBox/imageBrown4
+  rotate: false
+  xy: 817, 171
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+groundBox/imageBrown1
+  rotate: false
+  xy: 817, 129
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+groundBox/imageBrown3
+  rotate: false
+  xy: 879, 191
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+groundBox/imageGreen1
+  rotate: false
+  xy: 817, 87
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+groundBox/imageGreen2
+  rotate: false
+  xy: 879, 149
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+groundBox/image
+  rotate: false
+  xy: 941, 191
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 1174
+
+castleGraphics27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+groundButton/image
+  rotate: false
+  xy: 1, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 974
+groundButton/image
+  rotate: false
+  xy: 33, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 976
+groundButton/image
+  rotate: false
+  xy: 65, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 978
+groundButton/image
+  rotate: false
+  xy: 97, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 980
+groundButton/image
+  rotate: false
+  xy: 129, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 982
+groundButton/image
+  rotate: false
+  xy: 161, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 984
+
+castleGraphics28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 1, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 933
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 63, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 935
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 125, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 937
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 187, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 939
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 249, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 941
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 311, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 943
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 373, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 945
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 435, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 947
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 497, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 949
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 559, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 951
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 621, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 953
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 683, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 955
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 745, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 957
+groundMachine/groundMachine1/image
+  rotate: false
+  xy: 807, 1
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: 959
+
+castleGraphics29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 1, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1040
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 1, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1042
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 123, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1044
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 1, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1046
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 1, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1048
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 123, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1050
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 245, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1052
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 123, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1054
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 123, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1056
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 245, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1058
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 367, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1060
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 245, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1062
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 245, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1064
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 367, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1066
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 489, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1068
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 367, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1070
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 367, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1072
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 489, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1074
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 611, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1076
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 489, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1078
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 489, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1080
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 611, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1082
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 733, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1084
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 611, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1086
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 611, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1088
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 733, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1090
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 855, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1092
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 733, 33
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1094
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 733, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1096
+groundMachine/groundMachine2/image
+  rotate: false
+  xy: 855, 65
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 1098
+
+castleGraphics30.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tst
+  rotate: false
+  xy: 1, 87
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: -1
+image
+  rotate: false
+  xy: 1, 46
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 349
+image
+  rotate: false
+  xy: 266, 97
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 346
+image
+  rotate: false
+  xy: 1, 1
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 377
+image
+  rotate: false
+  xy: 143, 9
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 374
+image
+  rotate: false
+  xy: 388, 76
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 343
+image
+  rotate: false
+  xy: 55, 4
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 440
+image
+  rotate: false
+  xy: 230, 45
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 457
+image
+  rotate: false
+  xy: 473, 107
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 519
+image
+  rotate: false
+  xy: 117, 40
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 737
+
+castleGraphics31.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+portal/portalIn/image
+  rotate: false
+  xy: 1, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 293
+portal/portalIn/image
+  rotate: false
+  xy: 63, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 295
+portal/portalIn/image
+  rotate: false
+  xy: 125, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 297
+portal/portalIn/image
+  rotate: false
+  xy: 187, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 299
+portal/portalIn/image
+  rotate: false
+  xy: 249, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 301
+portal/portalIn/image
+  rotate: false
+  xy: 311, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 303
+portal/portalIn/image
+  rotate: false
+  xy: 373, 1
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 305
+
+castleGraphics32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+portal/portalOut/image
+  rotate: false
+  xy: 1, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 473
+portal/portalOut/image
+  rotate: false
+  xy: 73, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 475
+portal/portalOut/image
+  rotate: false
+  xy: 145, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 477
+portal/portalOut/image
+  rotate: false
+  xy: 217, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 479
+portal/portalOut/image
+  rotate: false
+  xy: 289, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 481
+portal/portalOut/image
+  rotate: false
+  xy: 361, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 483
+portal/portalOut/image
+  rotate: false
+  xy: 433, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 485
+portal/portalOut/image
+  rotate: false
+  xy: 505, 1
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: 487
+
+castleGraphics33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spiky/image
+  rotate: false
+  xy: 1, 5
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 785
+spiky/image
+  rotate: false
+  xy: 63, 1
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: 777
+
+castleGraphics34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spring/spring1/image
+  rotate: false
+  xy: 1, 1
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: 724
+spring/spring1/image
+  rotate: false
+  xy: 63, 1
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: 726
+spring/spring1/image
+  rotate: false
+  xy: 125, 1
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: 728
+spring/spring1/image
+  rotate: false
+  xy: 187, 1
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: 730
+spring/spring1/image
+  rotate: false
+  xy: 249, 1
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: 732
+
+castleGraphics35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spring/spring2/image
+  rotate: false
+  xy: 1, 1
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: 903
+spring/spring2/image
+  rotate: false
+  xy: 123, 1
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: 905
+spring/spring2/image
+  rotate: false
+  xy: 245, 1
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: 907
+spring/spring2/image
+  rotate: false
+  xy: 367, 1
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: 909
+
+castleGraphics36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stick/image3
+  rotate: false
+  xy: 1, 1
+  size: 300, 10
+  orig: 300, 10
+  offset: 0, 0
+  index: -1
+stick/image1
+  rotate: false
+  xy: 303, 1
+  size: 240, 10
+  orig: 240, 10
+  offset: 0, 0
+  index: -1
+stick/image4
+  rotate: false
+  xy: 545, 1
+  size: 180, 10
+  orig: 180, 10
+  offset: 0, 0
+  index: -1
+stick/image2
+  rotate: false
+  xy: 727, 1
+  size: 120, 10
+  orig: 120, 10
+  offset: 0, 0
+  index: -1
+stick/image5
+  rotate: false
+  xy: 849, 1
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+
+castleGraphics37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wind/image
+  rotate: false
+  xy: 1, 1
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: 592
+wind/image
+  rotate: false
+  xy: 93, 1
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: 594
+wind/image
+  rotate: false
+  xy: 185, 1
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: 596
+wind/image
+  rotate: false
+  xy: 277, 1
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: 598

@@ -1,0 +1,68 @@
+
+gfx.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Untitled-1
+  rotate: false
+  xy: 1, 175
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+ground2
+  rotate: false
+  xy: 1, 85
+  size: 217, 88
+  orig: 217, 88
+  offset: 0, 0
+  index: -1
+greenmonster
+  rotate: false
+  xy: 1283, 820
+  size: 143, 155
+  orig: 143, 155
+  offset: 0, 0
+  index: -1
+ground1
+  rotate: false
+  xy: 1, 1
+  size: 194, 82
+  orig: 194, 82
+  offset: 0, 0
+  index: -1
+tnt
+  rotate: false
+  xy: 1283, 687
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+bluemonster
+  rotate: false
+  xy: 1428, 848
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 1283, 579
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1546, 881
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+menuskin
+  rotate: false
+  xy: 220, 149
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
