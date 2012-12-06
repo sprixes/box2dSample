@@ -23,11 +23,11 @@ public class Test extends Game {
 	public void create() {
 		Gdx.graphics.setVSync(true);
 		initTween();
-		// setScreen(new Testscreen(this));
+		setScreen(new Testscreen(this, this));
 		// setScreen(new Level1(this));
 		// setScreen(new Level2(this));
 		// setScreen(new Level4(this));
-		switchToLevel(1, 1);
+		// switchToLevel(1, 1);
 
 	}
 

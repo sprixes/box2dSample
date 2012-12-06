@@ -7,6 +7,6 @@ public class Main {
 		// new LwjglApplication(new Test(), "Physics Test", 480, 320, false);
 
 		// new LwjglApplication(new Test(), "Physics Test", 800, 480, false);
-		new LwjglApplication(new Test(), "Physics Test", 1280, 720, false);
+		new LwjglApplication(new Test(), "Physics Test", 800, 1280, false);
 	}
 }

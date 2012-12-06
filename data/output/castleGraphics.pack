@@ -118,6 +118,88 @@ castleGraphics3.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+Bone
+  rotate: false
+  xy: 1, 74
+  size: 144, 180
+  orig: 144, 180
+  offset: 0, 0
+  index: -1
+tst
+  rotate: false
+  xy: 147, 214
+  size: 263, 40
+  orig: 263, 40
+  offset: 0, 0
+  index: -1
+image
+  rotate: false
+  xy: 1, 33
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: 349
+image
+  rotate: false
+  xy: 147, 136
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: 374
+image
+  rotate: false
+  xy: 1, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: 346
+image
+  rotate: false
+  xy: 147, 83
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: 343
+image
+  rotate: false
+  xy: 412, 214
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 440
+image
+  rotate: false
+  xy: 234, 172
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: 457
+image
+  rotate: false
+  xy: 296, 169
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: 377
+image
+  rotate: false
+  xy: 474, 234
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 519
+image
+  rotate: false
+  xy: 123, 27
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 737
+
+castleGraphics4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
 Box/image
   rotate: false
   xy: 1, 1
@@ -147,7 +229,7 @@ Box/image
   offset: 0, 0
   index: 719
 
-castleGraphics4.png
+castleGraphics5.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -201,7 +283,7 @@ BoxGreen/box1/image
   offset: 0, 0
   index: 426
 
-castleGraphics5.png
+castleGraphics6.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -255,7 +337,7 @@ BoxGreen/box2/image
   offset: 0, 0
   index: 346
 
-castleGraphics6.png
+castleGraphics7.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -295,7 +377,7 @@ BoxWhite/Box1/image
   offset: 0, 0
   index: 340
 
-castleGraphics7.png
+castleGraphics8.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -335,7 +417,7 @@ BoxWhite/Box2/image
   offset: 0, 0
   index: 360
 
-castleGraphics8.png
+castleGraphics9.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -375,7 +457,7 @@ BoxWhite/Box3/image
   offset: 0, 0
   index: 371
 
-castleGraphics9.png
+castleGraphics10.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -422,7 +504,7 @@ BoxWhite/Box4/image
   offset: 0, 0
   index: 391
 
-castleGraphics10.png
+castleGraphics11.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -462,7 +544,7 @@ BoxWhite/Box5/image
   offset: 0, 0
   index: 424
 
-castleGraphics11.png
+castleGraphics12.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -502,7 +584,7 @@ BoxWhite/Box6/image
   offset: 0, 0
   index: 451
 
-castleGraphics12.png
+castleGraphics13.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -675,7 +757,7 @@ Buttons/image
   offset: 0, 0
   index: 239
 
-castleGraphics13.png
+castleGraphics14.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -708,7 +790,7 @@ characters/image3
   offset: 0, 0
   index: -1
 
-castleGraphics14.png
+castleGraphics15.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -755,7 +837,7 @@ circle/image1
   offset: 0, 0
   index: -1
 
-castleGraphics15.png
+castleGraphics16.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -802,7 +884,7 @@ CircleWhite/Circle1/image
   offset: 0, 0
   index: 329
 
-castleGraphics16.png
+castleGraphics17.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -842,7 +924,7 @@ CircleWhite/Circle2/image
   offset: 0, 0
   index: 402
 
-castleGraphics17.png
+castleGraphics18.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -882,7 +964,7 @@ CircleWhite/Circle3/image
   offset: 0, 0
   index: 413
 
-castleGraphics18.png
+castleGraphics19.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -985,7 +1067,7 @@ dragon/dragonPinkDead/image
   offset: 0, 0
   index: 548
 
-castleGraphics19.png
+castleGraphics20.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -1165,7 +1247,7 @@ dragon/dragonPinkWalk/image
   offset: 0, 0
   index: 998
 
-castleGraphics20.png
+castleGraphics21.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -1331,7 +1413,7 @@ dragon/dragonRedDead/image
   offset: 0, 0
   index: 287
 
-castleGraphics21.png
+castleGraphics22.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -1560,7 +1642,7 @@ dragon/dragonRedWalk/image
   offset: 0, 0
   index: 853
 
-castleGraphics22.png
+castleGraphics23.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -1649,7 +1731,7 @@ explosion/eplosionIdle/image
   offset: 0, 0
   index: 762
 
-castleGraphics23.png
+castleGraphics24.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -1745,7 +1827,7 @@ explosion/explosion1/image
   offset: 0, 0
   index: 516
 
-castleGraphics24.png
+castleGraphics25.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -1890,7 +1972,7 @@ explosion/explosion2/image
   offset: 0, 0
   index: 589
 
-castleGraphics25.png
+castleGraphics26.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -2105,7 +2187,7 @@ finishBox/image
   offset: 0, 0
   index: 1160
 
-castleGraphics26.png
+castleGraphics27.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -2166,7 +2248,7 @@ groundBox/image
   offset: 0, 0
   index: 1174
 
-castleGraphics27.png
+castleGraphics28.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -2213,7 +2295,7 @@ groundButton/image
   offset: 0, 0
   index: 984
 
-castleGraphics28.png
+castleGraphics29.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -2316,7 +2398,7 @@ groundMachine/groundMachine1/image
   offset: 0, 0
   index: 959
 
-castleGraphics29.png
+castleGraphics30.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -2530,81 +2612,6 @@ groundMachine/groundMachine2/image
   orig: 120, 30
   offset: 0, 0
   index: 1098
-
-castleGraphics30.png
-format: RGBA8888
-filter: Nearest,Nearest
-repeat: none
-tst
-  rotate: false
-  xy: 1, 87
-  size: 263, 40
-  orig: 263, 40
-  offset: 0, 0
-  index: -1
-image
-  rotate: false
-  xy: 1, 46
-  size: 140, 39
-  orig: 140, 39
-  offset: 0, 0
-  index: 349
-image
-  rotate: false
-  xy: 266, 97
-  size: 120, 30
-  orig: 120, 30
-  offset: 0, 0
-  index: 346
-image
-  rotate: false
-  xy: 1, 1
-  size: 52, 43
-  orig: 52, 43
-  offset: 0, 0
-  index: 377
-image
-  rotate: false
-  xy: 143, 9
-  size: 85, 76
-  orig: 85, 76
-  offset: 0, 0
-  index: 374
-image
-  rotate: false
-  xy: 388, 76
-  size: 83, 51
-  orig: 83, 51
-  offset: 0, 0
-  index: 343
-image
-  rotate: false
-  xy: 55, 4
-  size: 60, 40
-  orig: 60, 40
-  offset: 0, 0
-  index: 440
-image
-  rotate: false
-  xy: 230, 45
-  size: 60, 40
-  orig: 60, 40
-  offset: 0, 0
-  index: 457
-image
-  rotate: false
-  xy: 473, 107
-  size: 20, 20
-  orig: 20, 20
-  offset: 0, 0
-  index: 519
-image
-  rotate: false
-  xy: 117, 40
-  size: 4, 4
-  orig: 4, 4
-  offset: 0, 0
-  index: 737
 
 castleGraphics31.png
 format: RGBA8888
